@@ -1,0 +1,16 @@
+[ {
+  "productoId" : 577,
+  "nombre" : "Computadoras",
+  "stock" : 25,
+  "estado" : "En Fabricacion"
+}, {
+  "productoId" : 113,
+  "nombre" : "Calculdora",
+  "stock" : 20,
+  "estado" : "Importadas"
+}, {
+  "productoId" : 751,
+  "nombre" : "celular",
+  "stock" : 0,
+  "estado" : "SIN EXISTENCIAS"
+} ]

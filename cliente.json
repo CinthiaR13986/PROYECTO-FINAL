@@ -1,0 +1,49 @@
+[ {
+  "nitCliente" : "7690",
+  "nombreCliente" : "Cinthia",
+  "direccion" : "El Porvenir",
+  "celular" : "5489585",
+  "pedidosLista" : [ {
+    "pedidoId" : 61,
+    "fechaOrden" : 1729833335499,
+    "estado" : "SOLICITADO",
+    "productos" : [ {
+      "productoId" : 577,
+      "nombre" : "Computadoras",
+      "stock" : 25,
+      "estado" : "En Fabricacion"
+    } ]
+  } ]
+}, {
+  "nitCliente" : "4656",
+  "nombreCliente" : "MIRIAM",
+  "direccion" : "CALLE REAL",
+  "celular" : "5895",
+  "pedidosLista" : [ {
+    "pedidoId" : 68,
+    "fechaOrden" : 1729834912933,
+    "estado" : "SOLICITADO",
+    "productos" : [ {
+      "productoId" : 577,
+      "nombre" : "Computadoras",
+      "stock" : 25,
+      "estado" : "En Fabricacion"
+    } ]
+  } ]
+}, {
+  "nitCliente" : "5892",
+  "nombreCliente" : "luis",
+  "direccion" : "calle vista",
+  "celular" : "895622",
+  "pedidosLista" : [ {
+    "pedidoId" : 76,
+    "fechaOrden" : 1729948710755,
+    "estado" : "SOLICITADO",
+    "productos" : [ {
+      "productoId" : 751,
+      "nombre" : "celular",
+      "stock" : 25,
+      "estado" : "SIN EXISTENCIAS"
+    } ]
+  } ]
+} ]
